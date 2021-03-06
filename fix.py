@@ -67,8 +67,4 @@ if __name__ == "__main__":
         else:
             print(num_bytes_before, num_bytes_after, num_rows_before, num_rows_after) # qa
             prompt()
-            
-
-
-
     
